@@ -1,5 +1,5 @@
 # rcsf-django
-Web App Django base para website de Redes de Comunicações sem Fios
+Web App base em Django para website de Redes de Comunicações sem Fios
 
 Passos:
 1. Abra a linha de comandos (PowerShell ou cmd)

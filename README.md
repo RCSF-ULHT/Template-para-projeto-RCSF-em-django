@@ -1,5 +1,6 @@
 # rcsf-django
 Web App base em Django para website de Redes de Comunicações sem Fios
+![image](https://user-images.githubusercontent.com/42048382/200449207-c9d1d764-dd58-4959-b8b0-1cd7ba6a7046.png)
 
 ### Passos para lançar e editar a aplicação
 1. Abra a linha de comandos (PowerShell ou cmd)
